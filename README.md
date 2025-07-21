@@ -1,5 +1,5 @@
 # คุณสมบัติแผนที่
-<img width="770" height="597" alt="image" src="https://github.com/user-attachments/assets/ca95dd64-9d79-4238-af57-d95c01e8815d" />
+<img width="625" height="488" alt="image" src="https://github.com/user-attachments/assets/ebeced20-7540-40a1-8947-2b6d94f843f9" />
 
 1. ลักษณะการออกแบบ Map
 - ขนาด 3 x 3
