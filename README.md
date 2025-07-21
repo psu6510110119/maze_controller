@@ -26,3 +26,6 @@
 4. การเก็บ “ตำแหน่ง” (Position Tracking)
 - Wheel Odometry: อ่านค่าการหมุนของล้อ (จาก getPositionSensor() ของมอเตอร์) แล้วคำนวณ dead‑reckoning ว่าหุ่นยนต์เคลื่อนที่ไปเท่าไหร่
 - Sensor Fusion: ผสมผสานระยะทางจากล้อกับข้อมูลจาก IMU หรือเซ็นเซอร์อื่น (เช่น vision, LIDAR) เพื่อแก้ข้อผิดพลาดสะสม
+<img width="332" height="407" alt="image" src="https://github.com/user-attachments/assets/88f82d6a-d59b-423a-ac22-dca480811495" />
+<img width="443" height="326" alt="image" src="https://github.com/user-attachments/assets/a8810bb4-ab74-4627-bbb9-e11756e82eda" />
+
